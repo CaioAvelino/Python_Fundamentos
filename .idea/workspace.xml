@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d2c02cb-157b-4bf9-af9c-4f1bf03b55d0" name="Default" comment="" />
+    <list default="true" id="0d2c02cb-157b-4bf9-af9c-4f1bf03b55d0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cap04/Notebooks/DSA-Python-Cap04-01-Arquivos-Parte1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Cap04/Notebooks/DSA-Python-Cap04-01-Arquivos-Parte1.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,13 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="calculadora_v1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Cap03/Lab02/calculadora_v1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,8 +28,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+    <option name="x" value="-167" />
+    <option name="y" value="155" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -41,7 +38,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -51,19 +47,13 @@
             </path>
             <path>
               <item name="Python_Fundamentos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Fundamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="Cap03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Fundamentos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Fundamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="Cap03" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab02" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,7 +119,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Cap03/Lab02/calculadora_v1.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
