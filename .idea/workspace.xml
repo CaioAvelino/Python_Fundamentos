@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0d2c02cb-157b-4bf9-af9c-4f1bf03b55d0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cap04/Notebooks/DSA-Python-Cap04-01-Arquivos-Parte1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Cap04/Notebooks/DSA-Python-Cap04-01-Arquivos-Parte1.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,10 +27,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-167" />
-    <option name="y" value="155" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -47,7 +46,14 @@
             </path>
             <path>
               <item name="Python_Fundamentos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Python_Fundamentos" type="462c0819:PsiDirectoryNode" />
+              <item name="Cap05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Fundamentos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Fundamentos" type="462c0819:PsiDirectoryNode" />
+              <item name="Cap05" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -86,7 +92,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -95,7 +101,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17291667" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
