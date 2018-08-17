@@ -119,8 +119,10 @@ class Hangman:
     # Método para checar o status do game e imprimir o board na tela
     def print_game_status(self):
         print("%s\n" % self.board[self.tentativa])
-        print('Palavra: %s' % self.palavra_aux)
-        print("\nLetras erradas:")
+        print('Palavra: ', end=' ')
+        for self.i in self.palavra_aux:
+            print(self.i, end=' ')
+        print("\n\nLetras erradas:")
         for self.i in self.erradas:
             print("%c" % self.i)
         print("\nLetras corretas:")
