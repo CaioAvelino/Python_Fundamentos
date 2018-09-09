@@ -151,12 +151,12 @@ def main():
 
     # De acordo com o status, imprime mensagem na tela para o usuário
     if game.hangman_won() is True:
-        print('Parabéns! Você venceu!!')
+        print('Parabéns! Você venceu!! :)')
     else:
-        print('\nGame over! Você perdeu.')
+        print('\nGame over! Você perdeu! :(')
         print('A palavra era ' + game.word)
 
-    print('\nFoi bom jogar com você! Agora vá estudar!\n')
+    print('\nFoi bom jogar com você!\n')
 
 
 # Executa o programa		
